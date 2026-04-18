@@ -1,4 +1,4 @@
-# Linux Basics
+Focused on learning system troubleshooting, Linux basics, and understanding how operating systems work.
 
 ## File operations
 ls - list files
