@@ -1,4 +1,3 @@
-# linux-basics
 # Linux Basics
 
 ## File operations
