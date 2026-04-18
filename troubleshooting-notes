@@ -1,0 +1,13 @@
+# Common IT Problems
+
+## Slow computer
+- check task manager
+- disable startup apps
+
+## No internet
+- check cable
+- ipconfig /release
+- ipconfig /renew
+
+## Printer issues
+- restart spooler
